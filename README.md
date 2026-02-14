@@ -1,23 +1,66 @@
-# Hi there 👋 I'm Sourabh Dhangar
+# Hi there, I'm Sourabh Kumar Dhangar 👋
 
-### 🚀 MERN Stack & React Native Developer
-I build scalable web and mobile applications with a focus on performance and user experience.
+### 🚀 Software Engineer | MERN Stack Developer | AWS Certified
+I am a Full-Stack Developer with expertise in building scalable web applications and enterprise solutions. Currently working as a **Software Engineer at WorknAI**, focusing on production-grade applications and system design.
 
-- 🔭 I’m currently working on **Nakshatra Tech Solutions** website.
-- 🌱 I’m currently learning **Advanced System Design**.
-- 👯 I’m looking to collaborate on **Open Source MERN Projects**.
-- 💬 Ask me about **React, Node.js, MongoDB, or Cloud Kitchen OS**.
+- 🏢 **Currently Working at:** [WorknAI](https://worknai.com) (Pune)
+- 🏆 **Achievements:** Smart India Hackathon 2024 Finalist | AWS Certified Solutions Architect
+- 🔭 **Current Focus:** Advanced System Design & Cloud Architecture (AWS)
+- 💬 **Ask me about:** React.js, Node.js, MongoDB, System Design, or AWS.
 
-### 🛠 Tech Stack
-**Frontend:** React.js, React Native, Tailwind CSS, Vite, Angular.
-**Backend:** Node.js, Express.js.
-**Database:** MongoDB.
+---
 
-### 📊 My GitHub Stats
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh-dhangar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-dhangar&layout=compact&theme=radical)
+### 🛠️ Tech Stack & Tools
 
-### 📁 Featured Projects & Contributions
-- **Pune Bus Application** - Frontend development and UI optimization.
-- **B2B Travel Portal** - Working on MERN stack architecture.
-- **Blood Donation Management** - Developed full-stack system for camp management.
+| **Category** | **Technologies** |
+|Strut|Strut|
+| **Frontend** | React.js, React Native, Tailwind CSS, HTML5, CSS3, Vite |
+| **Backend** | Node.js, Express.js, Django, REST APIs, JWT Auth |
+| **Database** | MongoDB, MySQL, PostgreSQL |
+| **DevOps & Cloud** | AWS (EC2, S3, RDS, VPC), Docker, Linux, Git/GitHub |
+| **Tools** | Postman, Jira, VS Code, MySQL Workbench |
+
+---
+
+### 📂 Featured Projects & Work
+
+Here are some of the key projects I have developed and collaborated on:
+
+#### 🩸 [Raktdaan - Blood Donation Management](https://raktdaan.online)
+*A full-stack platform for managing blood donation camps and donor data.*
+- **Role:** Full Stack Developer
+- **Tech:** MERN Stack (MongoDB, Express, React, Node), JWT, RBAC.
+- **Key Feature:** Role-based access for Admins and Organizers to manage campaigns efficiently.
+
+#### 🍳 CloudKitchen & Healthy Oil
+*A multi-vendor food delivery and subscription platform.*
+- **Role:** Lead Developer
+- **Tech:** React.js, Node.js, Razorpay Integration.
+- **Key Feature:** Handles live orders, subscriptions, and inventory management for cloud kitchens.
+
+#### 🏢 [WorknAI HRMS](https://worknaihrms.online)
+*Enterprise-grade HR Management System deployed for client usage.*
+- **Role:** Software Engineer
+- **Tech:** MERN Stack, AWS Deployment.
+- **Key Feature:** Automated attendance tracking, leave management, and employee reporting.
+
+#### 🏛️ [eSeva Portal](http://eseva.pythonanywhere.com)
+*Government document service portal for streamlining request handling.*
+- **Role:** Backend & System Design
+- **Tech:** Django, SQL, Python.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-dhangar&show_icons=true&theme=radical&count_private=true" alt="Sourabh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-dhangar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sourabh-dhangar)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sourabhdhangar187@gmail.com)
