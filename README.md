@@ -13,7 +13,7 @@ I am a Full-Stack Developer with expertise in building scalable web applications
 ### 🛠️ Tech Stack & Tools
 
 | **Category** | **Technologies** |
-|Strut|Strut|
+| :--- | :--- |
 | **Frontend** | React.js, React Native, Tailwind CSS, HTML5, CSS3, Vite |
 | **Backend** | Node.js, Express.js, Django, REST APIs, JWT Auth |
 | **Database** | MongoDB, MySQL, PostgreSQL |
@@ -54,16 +54,22 @@ Here are some of the key projects I have developed and collaborated on:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://linkedin.com/in/sourabh-dhangar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="mailto:sourabhdhangar187@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-dhangar&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-dhangar&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="streak graph" />
 </div>
+
 ---
 
 ### 📬 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sourabh-dhangar)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sourabhdhangar187@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/sourabh-dhangar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="mailto:sourabhdhangar187@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+</div>
