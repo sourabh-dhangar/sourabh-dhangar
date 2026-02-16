@@ -53,7 +53,7 @@ Here are some of the key projects I have developed and collaborated on:
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
+
 ![Sourabh's Stats](https://github-readme-stats.vercel.app/api?username=sourabh-dhangar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-dhangar&layout=compact&theme=radical)
 
