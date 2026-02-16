@@ -18,7 +18,7 @@ I am a Full-Stack Developer with expertise in building scalable web applications
 | **Backend** | Node.js, Express.js, Django, REST APIs, JWT Auth |
 | **Database** | MongoDB, MySQL, PostgreSQL |
 | **DevOps & Cloud** | AWS (EC2, S3, RDS, VPC), Docker, Linux, Git/GitHub |
-| **Tools** | Postman, Jira, VS Code, MySQL Workbench,Antigravity  |
+| **Tools** | Postman, Jira, VS Code, MySQL Workbench, Antigravity |
 
 ---
 
@@ -51,21 +51,12 @@ Here are some of the key projects I have developed and collaborated on:
 
 ---
 
-### 📊 GitHub Stats
-  ### 🔥 GitHub Activity
+### 🔥 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="sourabh-dhangar" />
 </div>
-### 🏆 Achievements & Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabh-dhangar&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="sourabh-dhangar" />
-</div>
 ---
 
 ### 📬 Connect with Me
