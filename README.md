@@ -53,13 +53,15 @@ Here are some of the key projects I have developed and collaborated on:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-dhangar&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-dhangar&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="streak graph" />
-</div>
+### 🏆 Achievements & Stats
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sourabh-dhangar&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="sourabh-dhangar" />
+</div>
 ---
 
 ### 📬 Connect with Me
