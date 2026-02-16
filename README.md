@@ -52,7 +52,11 @@ Here are some of the key projects I have developed and collaborated on:
 ---
 
 ### 📊 GitHub Stats
+  ### 🔥 GitHub Activity
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="sourabh-dhangar" />
+</div>
 ### 🏆 Achievements & Stats
 
 <div align="center">
