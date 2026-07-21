@@ -44,75 +44,29 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 
 ### 📂 Featured Projects & Client Work
 
-Selected from 15+ live builds across employer, freelance, and independent work:
+> **15+ production applications shipped** across employer, freelance, and independent engagements — from discovery and system design to deployment.
 
-#### 🏨 [Hotel Shivshambhoo](https://shivshambhoo.com/) — 3-Star Hotel Management System _(U Tech India)_
+| Project | What I built / impact | Stack |
+| :-- | :-- | :-- |
+| **📸 [QuantroMind PhotoEvent](https://photoevent.quantromind.com/)**<br>*AI Event Photo Gallery SaaS · Freelance* | QR-based guest access, AI face/selfie matching, DSLR-to-cloud upload workflow, and photo monetization payments. | React, Node.js, Express, MongoDB, AWS/CDN |
+| **🏨 [Hotel Shivshambhoo](https://shivshambhoo.com/)**<br>*3-Star Hotel Management System · U Tech India* | Public website plus reservations, room management, restaurant billing, payments, and local SEO/Google Business Profile setup. | React, Node.js, Express, MongoDB, Hostinger |
+| **🧩 [QuantromindCRM](https://portal.quantromind.com/)**<br>*CRM, HRMS & Sales Platform · Freelance* | Meta lead capture that syncs campaign leads automatically, with HRMS (attendance/payroll) and sales-pipeline modules. | React, Node.js, Express, MongoDB, REST APIs |
+| **🏢 [WorknAI HRMS](https://worknaihrms.online/)**<br>*Enterprise HRMS · WorknAI* | End-to-end HR platform with attendance, leave, reports, and secure RBAC across Super Admin, Company, HR, and Employee roles. | React, Node.js, Express, MongoDB, JWT, RBAC |
+| **💼 [Umbarkar CS](https://umbarkarcs.com/)**<br>*Finance & IT Operations CRM · U Tech India* | Secure dashboards for user and salesperson tracking, maps, incentives, and document workflows. | React, Node.js, Express, MongoDB |
 
-_Comprehensive management system and public-facing website for a 3-star hotel client._
+<details>
+<summary><b>More client & independent builds</b></summary>
+<br>
 
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Hostinger
-- **Key Feature:** Reservations, room management, restaurant billing, payment integration, and on-page SEO + Google Business Profile for local search visibility.
+| Project | Key capability | Stack |
+| :-- | :-- | :-- |
+| **🧾 [Quantromind Billing](https://qbill.quantromind.com/)**<br>*SaaS Invoicing · Freelance* | Automated invoice generation and recurring billing, replacing manual spreadsheet workflows. | React, Node.js, Express, MongoDB |
+| **🍳 CloudKitchen & Healthy Oil**<br>*Multi-vendor Platform · WorknAI* | Store, catalog, cart, order-tracking, subscription, and Razorpay payment flows. | React, Node.js, Express, MongoDB, Razorpay |
+| **🩸 [Raktdaan](https://transhealthpulse.com/)**<br>*Blood Donation Management · Independent* | Donor and campaign management with approval workflows and separate admin/organizer dashboards. | React, Node.js, Express, MongoDB, JWT, RBAC |
+| **🏛️ [eSeva Portal](https://eseva.pythonanywhere.com/)**<br>*Document Verification Service · Independent* | Streamlined government-document request and verification handling. | Django, Python, SQL |
+| **✈️ [GoAirClass](https://goairclass.com/)**<br>*Travel Booking App · Independent* | Live booking experience powered by third-party travel APIs. | PHP, MySQL, Third-Party APIs |
 
-#### 💼 [Umbarkar CS](https://umbarkarcs.com/) — Finance & IT Operations CRM _(U Tech India)_
-
-_Custom CRM to handle finance and IT operations._
-
-- **Tech:** React.js, Node.js, Express.js, MongoDB
-- **Key Feature:** User & salesperson tracking with map integration, incentive management, document handling, and secure operational dashboards.
-
-#### 📸 [QuantroMind PhotoEvent](https://photoevent.quantromind.com/) — AI Event Photo Gallery SaaS _(Quantromind – Freelance)_
-
-_SaaS platform for event photographers (weddings, corporate events)._
-
-- **Tech:** React.js, Node.js, Express.js, MongoDB, AWS/CDN
-- **Key Feature:** AI-based face/selfie matching so guests find their photos via QR scan, camera-to-cloud DSLR upload pipeline, and payment integration for photo monetization.
-
-#### 🧩 [QuantromindCRM](https://portal.quantromind.com/) — Internal CRM with HRMS & Sales _(Quantromind – Freelance)_
-
-_Comprehensive internal CRM for lead and HR operations, tailored for an IT agency._
-
-- **Tech:** React.js, Node.js, Express.js, MongoDB, REST APIs
-- **Key Feature:** Facebook & Instagram lead-capture APIs auto-sync ad-campaign leads, plus full HRMS (attendance, payroll) and Sales pipeline modules.
-
-#### 🧾 [Quantromind Billing](https://qbill.quantromind.com/) — SaaS Invoicing Platform _(Quantromind – Freelance)_
-
-_SaaS billing & invoicing platform for business clients._
-
-- **Tech:** React.js, Node.js, Express.js, MongoDB
-- **Key Feature:** Automates invoice generation and billing cycles, replacing manual spreadsheet workflows.
-
-#### 🏢 [WorknAI HRMS](https://worknaihrms.online/) — Enterprise HR Management System _(WorknAI)_
-
-_Complete HRMS platform designed, developed, tested, and deployed for client use._
-
-- **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, RBAC
-- **Key Feature:** Attendance tracking, leave management, work reports, and role-based access control across 4 user levels (Super Admin, Company, HR, Employee).
-
-#### 🍳 CloudKitchen & Healthy Oil — Multi-Vendor Platform _(WorknAI)_
-
-_Multi-vendor food ordering and subscription platform with end-to-end SDLC ownership._
-
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Razorpay
-- **Key Feature:** Store management, product catalog, cart, order tracking, subscriptions, and payment integration.
-
-#### 🩸 [Raktdaan](https://transhealthpulse.com/) — Blood Donation Management System _(Independent)_
-
-_Full-stack platform for organizers to manage donor data and campaigns._
-
-- **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, RBAC
-- **Key Feature:** Admin approval workflow with role-based access — separate admin and organizer dashboards.
-
-#### 🏛️ [eSeva Portal](https://eseva.pythonanywhere.com/) — Govt. Document Verification Service _(Independent)_
-
-_Government document service portal for streamlining request handling._
-
-- **Tech:** Django, SQL, Python
-
-#### ✈️ [GoAirClass](https://goairclass.com/) — Travel Booking App _(Independent)_
-
-_Live travel booking application powered by third-party APIs._
-
-- **Tech:** PHP, MySQL, Third-Party API Integration
+</details>
 
 ---
 
