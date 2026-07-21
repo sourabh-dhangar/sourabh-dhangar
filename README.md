@@ -21,6 +21,10 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 - 🔭 **Current Focus:** System Design, Cloud Architecture (AWS), SaaS products & third-party API integrations
 - 💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, AWS, System Design, or SEO Strategies
 
+| 🚀 Delivery | ☁️ Engineering Focus | 🤝 Collaboration |
+| :-- | :-- | :-- |
+| **15+** live applications shipped end-to-end | MERN, AWS architecture, secure APIs & scalable SaaS | Open to Software Engineer roles and freelance product work |
+
 ---
 
 ### 🛠️ Tech Stack, Tools & Skills
@@ -86,9 +90,9 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-dhangar&theme=radical&hide_border=true" alt="sourabh-dhangar GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-dhangar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="sourabh-dhangar GitHub stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/sourabh-dhangar?tab=repositories">Explore my repositories →</a>
+</p>
 
 ---
 
