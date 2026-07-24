@@ -16,7 +16,7 @@
 
 Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** with **1+ year of professional experience** and **15+ live/production applications** shipped end-to-end — requirements analysis, system design, development, testing, and deployment. Experienced in RESTful API design, JWT/RBAC authorization, database optimization, CI/CD pipelines, Docker containerization, and Agile development. I own features from database schema to cloud deployment across MERN, Django, and PHP stacks.
 
-- 🏢 **Currently Working at:** [U Tech India Pvt Ltd](https://usystem.solutions/) (Pune) — _Since March 2026_
+- 🏢 **Currently Working at:** [Umbarkar Technology India Pvt Ltd](https://usystem.solutions/) (Pune) — _Since March 2026_
 - ⏳ **Previous Experience:** Software Engineer at WorknAI (Sep 2025 – Feb 2026)
 - 💼 **Freelance:** Independently building SaaS products for **Quantromind** (CRM, Billing, AI PhotoEvent)
 - 🏆 **Certifications:** AWS Solutions Architect | Cisco CyberOps Associate | PCAP Python | CCNAv7 | CCSK Cloud Security
@@ -53,10 +53,10 @@ Full-Stack (MERN) Software Engineer and **AWS Certified Solutions Architect** wi
 | Project | What I built / impact | Stack |
 | :-- | :-- | :-- |
 | **📸 [QuantroMind PhotoEvent](https://photoevent.quantromind.com/)**<br>*AI Event Photo Gallery SaaS · Freelance* | QR-based guest access, AI face/selfie matching, DSLR-to-cloud upload workflow, and photo monetization payments. | React, Node.js, Express, MongoDB, AWS/CDN |
-| **🏨 [Hotel Shivshambhoo](https://shivshambhoo.com/)**<br>*3-Star Hotel Management System · U Tech India* | Public website plus reservations, room management, restaurant billing, payments, and local SEO/Google Business Profile setup. | React, Node.js, Express, MongoDB, Hostinger |
+| **🏨 [Hotel Shivshambhoo](https://shivshambhoo.com/)**<br>*3-Star Hotel Management System · Umbarkar Technology India* | Public website plus reservations, room management, restaurant billing, payments, and local SEO/Google Business Profile setup. | React, Node.js, Express, MongoDB, Hostinger |
 | **🧩 [QuantromindCRM](https://portal.quantromind.com/)**<br>*CRM, HRMS & Sales Platform · Freelance* | Meta lead capture that syncs campaign leads automatically, with HRMS (attendance/payroll) and sales-pipeline modules. Deployed for 2 active clients. | React, Node.js, Express, MongoDB, REST APIs |
 | **🏢 [WorknAI HRMS](https://worknaihrms.online/)**<br>*Enterprise HRMS · WorknAI* | End-to-end HR platform with attendance, leave, reports, and secure RBAC across 4 user roles (Super Admin, Company, HR, Employee). | React, Node.js, Express, MongoDB, JWT, RBAC |
-| **💼 [Umbarkar CS](https://umbarkarcs.com/)**<br>*Finance & IT Operations CRM · U Tech India* | Secure dashboards for user and salesperson tracking, maps, incentives, and document workflows — consolidating 4 manual workflows into 1 platform. | React, Node.js, Express, MongoDB |
+| **💼 [Umbarkar CS](https://umbarkarcs.com/)**<br>*Finance & IT Operations CRM · Umbarkar Technology India* | Secure dashboards for user and salesperson tracking, maps, incentives, and document workflows — consolidating 4 manual workflows into 1 platform. | React, Node.js, Express, MongoDB |
 
 <details>
 <summary><b>More client & independent builds</b></summary>
